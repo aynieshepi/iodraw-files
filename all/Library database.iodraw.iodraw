@@ -376,20 +376,6 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ufI1u6UEElUZEH6jSFg_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SL4pIeYMUEWQ2BlgnT0b-2" target="ufI1u6UEElUZEH6jSFg_-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="90" />
-              <mxPoint x="390" y="90" />
-              <mxPoint x="390" y="175" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ufI1u6UEElUZEH6jSFg_-26" value="Publishes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufI1u6UEElUZEH6jSFg_-15">
-          <mxGeometry x="0.1764" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ufI1u6UEElUZEH6jSFg_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERoneToMany;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="SL4pIeYMUEWQ2BlgnT0b-2" target="SL4pIeYMUEWQ2BlgnT0b-110">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -436,6 +422,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ufI1u6UEElUZEH6jSFg_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.993;exitY=0.336;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SL4pIeYMUEWQ2BlgnT0b-2" target="ufI1u6UEElUZEH6jSFg_-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
