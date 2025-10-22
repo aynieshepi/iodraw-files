@@ -418,12 +418,10 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16BUZhz--8_4_H_pREVW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="16BUZhz--8_4_H_pREVW-12" target="jEZYJ0G4jpFaUpiXoU8_-62">
+        <mxCell id="16BUZhz--8_4_H_pREVW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="16BUZhz--8_4_H_pREVW-12" target="jEZYJ0G4jpFaUpiXoU8_-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="565" />
-              <mxPoint x="100" y="515" />
-              <mxPoint x="80" y="515" />
+              <mxPoint x="80" y="565" />
               <mxPoint x="80" y="465" />
             </Array>
           </mxGeometry>
