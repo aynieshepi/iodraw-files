@@ -284,7 +284,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SL4pIeYMUEWQ2BlgnT0b-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SL4pIeYMUEWQ2BlgnT0b-80" target="SL4pIeYMUEWQ2BlgnT0b-57">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="445" />
+              <mxPoint x="340" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SL4pIeYMUEWQ2BlgnT0b-79" value="LOAN" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="180" height="150" as="geometry" />
