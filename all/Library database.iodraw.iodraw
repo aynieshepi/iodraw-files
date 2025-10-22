@@ -185,18 +185,6 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SL4pIeYMUEWQ2BlgnT0b-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERoneToMany;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="SL4pIeYMUEWQ2BlgnT0b-2" target="SL4pIeYMUEWQ2BlgnT0b-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="85" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SL4pIeYMUEWQ2BlgnT0b-94" value="Publishes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SL4pIeYMUEWQ2BlgnT0b-93">
-          <mxGeometry x="0.0143" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SL4pIeYMUEWQ2BlgnT0b-109" value="BOOK_AUTHOR" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="180" height="120" as="geometry" />
         </mxCell>
