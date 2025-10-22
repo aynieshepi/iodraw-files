@@ -392,32 +392,6 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16BUZhz--8_4_H_pREVW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;dashed=1;" parent="1" source="16BUZhz--8_4_H_pREVW-12" target="jEZYJ0G4jpFaUpiXoU8_-62" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="80" y="535" />
-              <mxPoint x="80" y="445" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="16BUZhz--8_4_H_pREVW-56" value="Own" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="16BUZhz--8_4_H_pREVW-55" vertex="1" connectable="0">
-          <mxGeometry x="0.0071" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="seB9zMxX8l3uXik0S-tp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jEZYJ0G4jpFaUpiXoU8_-56" target="seB9zMxX8l3uXik0S-tp-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="80" y="385" />
-              <mxPoint x="80" y="295" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="seB9zMxX8l3uXik0S-tp-5" value="Produces" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="seB9zMxX8l3uXik0S-tp-4">
-          <mxGeometry x="0.0141" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
