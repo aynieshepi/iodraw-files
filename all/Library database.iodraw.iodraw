@@ -298,7 +298,7 @@
         <mxCell id="SL4pIeYMUEWQ2BlgnT0b-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERoneToMany;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="SL4pIeYMUEWQ2BlgnT0b-2" target="SL4pIeYMUEWQ2BlgnT0b-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SL4pIeYMUEWQ2BlgnT0b-94" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SL4pIeYMUEWQ2BlgnT0b-93">
+        <mxCell id="SL4pIeYMUEWQ2BlgnT0b-94" value="Publishes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SL4pIeYMUEWQ2BlgnT0b-93">
           <mxGeometry x="0.0143" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
