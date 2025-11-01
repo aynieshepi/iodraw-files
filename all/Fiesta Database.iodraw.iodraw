@@ -630,7 +630,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="18czyjR_nij5EKCOEbbD-165" value="Send" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="18czyjR_nij5EKCOEbbD-157">
+        <mxCell id="18czyjR_nij5EKCOEbbD-165" value="Associates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="18czyjR_nij5EKCOEbbD-157">
           <mxGeometry x="-0.0073" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
