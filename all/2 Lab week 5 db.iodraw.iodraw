@@ -241,8 +241,8 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-49" value="Quantity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="640" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wdRV2E6BiDUO-LHn-SzD-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="748" width="50" height="30" as="geometry" />
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-52" value="Full dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="748" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
