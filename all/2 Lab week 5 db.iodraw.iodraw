@@ -283,6 +283,9 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-59" value="Cus Phone No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="730" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-60" value="Transitive dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="818" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
