@@ -197,6 +197,26 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-40" value="Partial dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="229" y="350" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="wdRV2E6BiDUO-LHn-SzD-43" target="wdRV2E6BiDUO-LHn-SzD-44" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="wdRV2E6BiDUO-LHn-SzD-43" target="wdRV2E6BiDUO-LHn-SzD-45" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="544" y="250" />
+              <mxPoint x="704" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-43" value="&lt;u&gt;Meal Code&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="170" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-44" value="MealName" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="170" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-45" value="Meal Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664" y="170" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
