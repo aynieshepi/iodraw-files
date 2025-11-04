@@ -39,7 +39,7 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-9" value="Meal Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="654" y="160" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wdRV2E6BiDUO-LHn-SzD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wdRV2E6BiDUO-LHn-SzD-10">
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="wdRV2E6BiDUO-LHn-SzD-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="140" as="targetPoint" />
             <Array as="points">
