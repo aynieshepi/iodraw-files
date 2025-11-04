@@ -71,6 +71,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wdRV2E6BiDUO-LHn-SzD-3" target="wdRV2E6BiDUO-LHn-SzD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-3" value="Cus No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="160" width="80" height="60" as="geometry" />
         </mxCell>
