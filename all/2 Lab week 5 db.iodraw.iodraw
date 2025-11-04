@@ -5,34 +5,34 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-1" value="&lt;u&gt;Order No&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="14" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-2" value="Order Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="94" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-3" value="Cus No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="174" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-4" value="Cus Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="254" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-5" value="CusAddress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="334" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-6" value="Cus Phone No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="414" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-7" value="&lt;u&gt;Meal Code&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="494" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-8" value="MealName" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="574" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-9" value="Meal Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="654" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-10" value="Quantity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="80" width="80" height="60" as="geometry" />
+          <mxGeometry x="734" y="160" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
