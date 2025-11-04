@@ -247,41 +247,41 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="wdRV2E6BiDUO-LHn-SzD-56" target="wdRV2E6BiDUO-LHn-SzD-58" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="162" />
-              <mxPoint x="240" y="222" />
-              <mxPoint x="400" y="222" />
+              <mxPoint x="150" y="790" />
+              <mxPoint x="150" y="850" />
+              <mxPoint x="310" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="wdRV2E6BiDUO-LHn-SzD-56" target="wdRV2E6BiDUO-LHn-SzD-59" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="162" />
-              <mxPoint x="240" y="222" />
-              <mxPoint x="480" y="222" />
+              <mxPoint x="150" y="790" />
+              <mxPoint x="150" y="850" />
+              <mxPoint x="390" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="wdRV2E6BiDUO-LHn-SzD-56" target="wdRV2E6BiDUO-LHn-SzD-57" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="162" />
-              <mxPoint x="240" y="222" />
-              <mxPoint x="320" y="222" />
+              <mxPoint x="150" y="790" />
+              <mxPoint x="150" y="850" />
+              <mxPoint x="230" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-56" value="Cus No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="184" y="102" width="80" height="60" as="geometry" />
+          <mxGeometry x="94" y="730" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-57" value="Cus Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="102" width="80" height="60" as="geometry" />
+          <mxGeometry x="174" y="730" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-58" value="CusAddress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="102" width="80" height="60" as="geometry" />
+          <mxGeometry x="254" y="730" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-59" value="Cus Phone No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="102" width="80" height="60" as="geometry" />
+          <mxGeometry x="334" y="730" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
