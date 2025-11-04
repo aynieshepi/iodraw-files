@@ -142,6 +142,9 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-30" value="Order Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="400" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-31" value="Cus No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
