@@ -133,6 +133,9 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-25" value="Transitive dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="238" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
