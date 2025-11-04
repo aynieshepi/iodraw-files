@@ -116,8 +116,8 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-13" value="Full dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="78" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wdRV2E6BiDUO-LHn-SzD-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="228" width="50" height="30" as="geometry" />
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-24" value="Partial dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="228" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
