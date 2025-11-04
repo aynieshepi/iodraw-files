@@ -220,6 +220,9 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-46" value="Partial dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="585" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wdRV2E6BiDUO-LHn-SzD-47" value="&lt;u&gt;Order No&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
