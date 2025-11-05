@@ -43,6 +43,10 @@
         <mxCell id="fj7-RWUdi42zVXYVdUVg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fj7-RWUdi42zVXYVdUVg-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="210" />
+              <mxPoint x="270" y="210" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fj7-RWUdi42zVXYVdUVg-15" value="Marks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
