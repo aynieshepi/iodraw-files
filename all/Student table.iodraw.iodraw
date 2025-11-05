@@ -87,8 +87,8 @@
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-43" value="Partial dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="158" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ab8dJzi_IUgQyhkRzHEW-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="288" width="50" height="30" as="geometry" />
+        <mxCell id="ab8dJzi_IUgQyhkRzHEW-45" value="Partial dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="288" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
