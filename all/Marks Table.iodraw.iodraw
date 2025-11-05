@@ -40,7 +40,7 @@
         <mxCell id="fj7-RWUdi42zVXYVdUVg-4" value="Last_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fj7-RWUdi42zVXYVdUVg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fj7-RWUdi42zVXYVdUVg-15">
+        <mxCell id="fj7-RWUdi42zVXYVdUVg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="fj7-RWUdi42zVXYVdUVg-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="180" as="targetPoint" />
             <Array as="points">
