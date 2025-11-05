@@ -43,6 +43,12 @@
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-35" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ab8dJzi_IUgQyhkRzHEW-36" value="&lt;u&gt;Courses&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8dJzi_IUgQyhkRzHEW-37" value="GradePoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
