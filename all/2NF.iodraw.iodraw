@@ -155,8 +155,8 @@
         <mxCell id="0uGopuyLI-E3KB33DiXh-44" value="Full dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="225" y="18" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="POacfSzR7h-yEi1LbyLq-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="528" width="50" height="30" as="geometry" />
+        <mxCell id="POacfSzR7h-yEi1LbyLq-1" value="Transitive dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="528" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
