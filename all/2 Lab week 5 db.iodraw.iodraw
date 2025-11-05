@@ -217,9 +217,6 @@
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-45" value="Meal Price" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="254" y="425" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wdRV2E6BiDUO-LHn-SzD-46" value="Partial dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="149" y="505" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="wdRV2E6BiDUO-LHn-SzD-47" target="wdRV2E6BiDUO-LHn-SzD-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -240,9 +237,6 @@
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-49" value="Quantity" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="264" y="560" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wdRV2E6BiDUO-LHn-SzD-52" value="Full dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="179" y="668" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wdRV2E6BiDUO-LHn-SzD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wdRV2E6BiDUO-LHn-SzD-56" target="wdRV2E6BiDUO-LHn-SzD-58" edge="1">
           <mxGeometry relative="1" as="geometry">
