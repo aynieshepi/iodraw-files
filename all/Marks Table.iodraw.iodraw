@@ -20,7 +20,10 @@
           <mxGeometry x="480" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fj7-RWUdi42zVXYVdUVg-7" value="Science_Marks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="50" width="100" height="40" as="geometry" />
+          <mxGeometry x="580" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7-RWUdi42zVXYVdUVg-8" value="Science_Marks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
