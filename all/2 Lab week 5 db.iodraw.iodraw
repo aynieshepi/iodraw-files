@@ -287,6 +287,14 @@
           <mxGeometry x="190" y="818" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_KPrVIuMPR9POm4mMn5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G_KPrVIuMPR9POm4mMn5-1" target="G_KPrVIuMPR9POm4mMn5-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="540" />
+              <mxPoint x="580" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_KPrVIuMPR9POm4mMn5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G_KPrVIuMPR9POm4mMn5-1" target="G_KPrVIuMPR9POm4mMn5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G_KPrVIuMPR9POm4mMn5-1" value="&lt;u&gt;Order No&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
