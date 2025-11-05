@@ -149,6 +149,12 @@
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-59" value="Partial dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="495" y="158" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ab8dJzi_IUgQyhkRzHEW-60" value="&lt;u&gt;Courses&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8dJzi_IUgQyhkRzHEW-61" value="&lt;u&gt;Std_Number&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
