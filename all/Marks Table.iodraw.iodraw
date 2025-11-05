@@ -5,25 +5,33 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fj7-RWUdi42zVXYVdUVg-1" value="&lt;u&gt;Subject&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7-RWUdi42zVXYVdUVg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fj7-RWUdi42zVXYVdUVg-2" target="fj7-RWUdi42zVXYVdUVg-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="100" />
+              <mxPoint x="220" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fj7-RWUdi42zVXYVdUVg-2" value="&lt;u&gt;Student_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="70" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fj7-RWUdi42zVXYVdUVg-3" value="First_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="170" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fj7-RWUdi42zVXYVdUVg-4" value="Last_Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="270" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fj7-RWUdi42zVXYVdUVg-6" value="Math_Marks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="470" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fj7-RWUdi42zVXYVdUVg-7" value="Science_Marks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="570" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fj7-RWUdi42zVXYVdUVg-8" value="English_Marks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="120" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
