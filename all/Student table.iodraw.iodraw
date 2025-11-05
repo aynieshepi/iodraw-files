@@ -104,8 +104,13 @@
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-45" value="Full dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="310" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ab8dJzi_IUgQyhkRzHEW-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8dJzi_IUgQyhkRzHEW-50" target="ab8dJzi_IUgQyhkRzHEW-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ab8dJzi_IUgQyhkRzHEW-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ab8dJzi_IUgQyhkRzHEW-50" target="ab8dJzi_IUgQyhkRzHEW-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="520" />
+              <mxPoint x="260" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-50" value="&lt;u&gt;Std_Number&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="540" width="120" height="60" as="geometry" />
