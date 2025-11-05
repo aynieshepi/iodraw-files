@@ -124,11 +124,19 @@
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-50" value="&lt;u&gt;Std_Number&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ab8dJzi_IUgQyhkRzHEW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8dJzi_IUgQyhkRzHEW-54" target="ab8dJzi_IUgQyhkRzHEW-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="660" />
+              <mxPoint x="260" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-54" value="&lt;u&gt;Courses&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-55" value="GradePoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
