@@ -19,20 +19,20 @@
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-26" value="GradePoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ab8dJzi_IUgQyhkRzHEW-28" value="Std_Number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="ab8dJzi_IUgQyhkRzHEW-28" value="&lt;u&gt;Std_Number&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-29" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-30" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-31" value="Courses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-32" value="GradePoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
