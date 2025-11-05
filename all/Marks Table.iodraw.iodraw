@@ -55,6 +55,9 @@
         <mxCell id="fj7-RWUdi42zVXYVdUVg-16" value="Partial dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="68" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fj7-RWUdi42zVXYVdUVg-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="198" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
