@@ -95,6 +95,14 @@
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-36" value="&lt;u&gt;Courses&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ab8dJzi_IUgQyhkRzHEW-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8dJzi_IUgQyhkRzHEW-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-37" value="GradePoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="540" width="120" height="60" as="geometry" />
         </mxCell>
