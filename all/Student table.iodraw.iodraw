@@ -58,6 +58,10 @@
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8dJzi_IUgQyhkRzHEW-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="310" />
+              <mxPoint x="320" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-32" value="GradePoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -106,7 +110,7 @@
           <mxGeometry x="195" y="158" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ab8dJzi_IUgQyhkRzHEW-45" value="Full dependency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="370" width="110" height="30" as="geometry" />
+          <mxGeometry x="430" y="310" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
