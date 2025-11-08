@@ -201,7 +201,7 @@
         <mxCell id="-67MOGNxohvrjhBqRMUc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-67MOGNxohvrjhBqRMUc-2" target="-67MOGNxohvrjhBqRMUc-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-67MOGNxohvrjhBqRMUc-62" value="make" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-67MOGNxohvrjhBqRMUc-59">
+        <mxCell id="-67MOGNxohvrjhBqRMUc-62" value="makes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-67MOGNxohvrjhBqRMUc-59">
           <mxGeometry x="0.001" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
