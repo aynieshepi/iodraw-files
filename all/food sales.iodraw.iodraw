@@ -222,9 +222,6 @@
         <mxCell id="-67MOGNxohvrjhBqRMUc-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-67MOGNxohvrjhBqRMUc-44" target="-67MOGNxohvrjhBqRMUc-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-67MOGNxohvrjhBqRMUc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-67MOGNxohvrjhBqRMUc-31" target="-67MOGNxohvrjhBqRMUc-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
