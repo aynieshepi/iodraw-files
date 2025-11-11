@@ -228,7 +228,8 @@
         <mxCell id="-zQN8CKBhxnyXUceAbRd-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="-zQN8CKBhxnyXUceAbRd-57" target="-zQN8CKBhxnyXUceAbRd-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="415" />
+              <mxPoint x="50" y="270" />
+              <mxPoint x="30" y="270" />
               <mxPoint x="30" y="145" />
             </Array>
           </mxGeometry>
