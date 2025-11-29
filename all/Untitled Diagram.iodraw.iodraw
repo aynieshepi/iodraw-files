@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c3aaWW4OTWPCVJXa10wY-43" value="DELIVERY_RUNNER" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="360" width="180" height="210" as="geometry" />
+          <mxGeometry x="-20" y="410" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="c3aaWW4OTWPCVJXa10wY-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="c3aaWW4OTWPCVJXa10wY-43">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -491,7 +491,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c3aaWW4OTWPCVJXa10wY-131" value="ORDER" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="360" width="180" height="210" as="geometry" />
+          <mxGeometry x="270" y="55" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="c3aaWW4OTWPCVJXa10wY-132" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="c3aaWW4OTWPCVJXa10wY-131">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -800,6 +800,9 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c3aaWW4OTWPCVJXa10wY-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3aaWW4OTWPCVJXa10wY-2" target="c3aaWW4OTWPCVJXa10wY-153">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
