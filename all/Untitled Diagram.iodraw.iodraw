@@ -801,7 +801,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c3aaWW4OTWPCVJXa10wY-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3aaWW4OTWPCVJXa10wY-2" target="c3aaWW4OTWPCVJXa10wY-153">
+        <mxCell id="c3aaWW4OTWPCVJXa10wY-263" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3aaWW4OTWPCVJXa10wY-2" target="c3aaWW4OTWPCVJXa10wY-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
