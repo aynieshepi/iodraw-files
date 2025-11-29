@@ -819,8 +819,8 @@
         <mxCell id="c3aaWW4OTWPCVJXa10wY-269" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=ERoneToMany;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="c3aaWW4OTWPCVJXa10wY-44" target="c3aaWW4OTWPCVJXa10wY-223">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c3aaWW4OTWPCVJXa10wY-270" value="VENDOR" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="310" width="180" height="210" as="geometry" />
+        <mxCell id="c3aaWW4OTWPCVJXa10wY-270" value="REPORT" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="c3aaWW4OTWPCVJXa10wY-271" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="c3aaWW4OTWPCVJXa10wY-270">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
