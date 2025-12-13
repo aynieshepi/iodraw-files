@@ -764,19 +764,6 @@
         <mxCell id="c3aaWW4OTWPCVJXa10wY-298" value="manage" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;dashed=1;" parent="1" source="c3aaWW4OTWPCVJXa10wY-28" target="c3aaWW4OTWPCVJXa10wY-295" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GSAh7vLhL1vkmE2xfc0R-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=ERoneToMany;endFill=0;startArrow=ERmandOne;startFill=0;" parent="1" source="c3aaWW4OTWPCVJXa10wY-70" target="GSAh7vLhL1vkmE2xfc0R-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="450" />
-              <mxPoint x="480" y="310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GSAh7vLhL1vkmE2xfc0R-29" value="deliver" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GSAh7vLhL1vkmE2xfc0R-27" vertex="1" connectable="0">
-          <mxGeometry x="0.0591" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GSAh7vLhL1vkmE2xfc0R-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=ERoneToMany;endFill=0;startArrow=ERmandOne;startFill=0;" parent="1" source="c3aaWW4OTWPCVJXa10wY-44" target="c3aaWW4OTWPCVJXa10wY-223" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
