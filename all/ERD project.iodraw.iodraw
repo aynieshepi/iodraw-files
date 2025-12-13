@@ -781,7 +781,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="750" />
-              <mxPoint x="240" y="645" />
+              <mxPoint x="240" y="585" />
             </Array>
           </mxGeometry>
         </mxCell>
